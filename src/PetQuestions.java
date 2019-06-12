@@ -5,7 +5,7 @@ public class PetQuestions {
         String name;
         String breed;
         int age;
-
+//Scanner Practice, combining string, var and input prints
         Scanner keyboard = new Scanner(System.in);
         System.out.print( "Greetings. What is your pet's name? " );
         name = keyboard.next();
